@@ -1,0 +1,81 @@
+{
+  "company_number": "02048608",
+  "processed_at": "2025-11-20T01:33:21.417960",
+  "company_name": "SERCO GROUP PLC",
+  "company_status": "active",
+  "total_filings": 1828,
+  "relevant_filings": 96,
+  "parsed_documents": 10,
+  "mismatches": {
+    "company_number": "02048608",
+    "company_name": "SERCO GROUP PLC",
+    "checked_at": "2025-11-20T01:34:46.673727",
+    "mismatches": [],
+    "warnings": [
+      {
+        "type": "parse_failed",
+        "document": "KR4cnHY8wgpT4_l8Mus5zc4B2BttEg9i-XVRtm6hvRQ.pdf",
+        "error": "No text could be extracted from document"
+      },
+      {
+        "type": "parse_failed",
+        "document": "o18Bt8bykFpjJDFiVHJqo33kwta_q0eHIDjwYYxiwZs.pdf",
+        "error": "No text could be extracted from document"
+      },
+      {
+        "type": "parse_failed",
+        "document": "QeqfJZ2IJSuDvO7ZHT3-34lIRCKlhcv_hQKgptcMDFA.pdf",
+        "error": "No text could be extracted from document"
+      },
+      {
+        "type": "parse_failed",
+        "document": "HG8kWe8qxNlOLRhR0Gf0mMRLEGGNoT3p0KVOtVEuX8w.pdf",
+        "error": "No text could be extracted from document"
+      },
+      {
+        "type": "parse_failed",
+        "document": "y3dTZke2xBcvlqAx4IbrPKNBQbVa5zgNsGukizfplgI.pdf",
+        "error": "No text could be extracted from document"
+      },
+      {
+        "type": "parse_failed",
+        "document": "mB6jjbsXfmmI4jVUOJGqARTHrwV3h3HxJ3uJH8A4UjM.pdf",
+        "error": "No text could be extracted from document"
+      },
+      {
+        "type": "parse_failed",
+        "document": "xaZs1veMCbgwW01ioe5lYOGGV7ZpAMNOdvfWu2D30VM.pdf",
+        "error": "No text could be extracted from document"
+      },
+      {
+        "type": "parse_failed",
+        "document": "QrzN5H1o3mrlqXuxX_OLV8jV_2Ok_lvWOh_O9nuhDYI.pdf",
+        "error": "No text could be extracted from document"
+      },
+      {
+        "type": "parse_failed",
+        "document": "nKzI608VXpeA5gB39XpBN7ReSAU_-XncSMQUzncVuOw.pdf",
+        "error": "No text could be extracted from document"
+      },
+      {
+        "type": "parse_failed",
+        "document": "QmUfrELB0lGGXKtUS9Dyuy_S_-_5yfR1f9Hq7QgVy-I.pdf",
+        "error": "No text could be extracted from document"
+      }
+    ],
+    "summary": {
+      "total_mismatches": 0,
+      "name_mismatches": 0,
+      "date_mismatches": 0,
+      "missing_filings": 0,
+      "extra_names": 0
+    }
+  },
+  "_folder_type": "Only Active Directors",
+  "_metadata": {
+    "company_number": "02048608",
+    "scanned_at": "2025-11-20T01:35:19.384322",
+    "scan_timestamp": "20251120_013519",
+    "version": "1.0"
+  }
+}
